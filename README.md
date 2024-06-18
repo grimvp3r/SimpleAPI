@@ -23,9 +23,9 @@
 ## Winstreak
 - "https://api.simpleapi.xyz/v1/1/user/ws"
 - Request this url with this data:
-```{
+`{
         "user": "grimviper",
         "pa": "true",
         "apikey": ""
-```}
+`}
 - *If you want to use your own api key set "pa" to false and enter your apikey else set it to true and dont enter a apikey
