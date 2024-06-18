@@ -21,7 +21,7 @@
 # API Usage
 
 ## Winstreak
-- "https://api.simpleapi.xyz/v1/1/user/ws"
+- **URL** `https://api.simpleapi.xyz/v1/1/user/ws`
 - Request this url with this data:
 ```
 {
