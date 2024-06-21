@@ -2,7 +2,7 @@
 - This is a swift api with features about the hypixel api for sniping and custom endpoints for little prices
 
 # Website
-- [ ] Website is comming soon...
+- https://swiftapi.xyz
 
 # Discord
 - [ ] Discord is comming soon...
