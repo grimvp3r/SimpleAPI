@@ -1,10 +1,5 @@
-# Installing
-- Open cmd and go into the simple-api folder
-- Then go into the src folder and then into the reqs folder
-- First install all the plugins `pip install -r requirements.txt`
-
 # Info
-- This is a simple api with features about the hypixel api for sniping and custom endpoints for little prices
+- This is a swift api with features about the hypixel api for sniping and custom endpoints for little prices
 
 # Website
 - [ ] Website is comming soon...
@@ -21,7 +16,7 @@
 # API Usage
 
 ## Winstreak
-- **URL** `https://api.simpleapi.xyz/v1/1/user/ws`
+- **URL** `https://api.swiftapi.xyz/v1/1/user/ws`
 - Request this url with this data:
 ```
 {
